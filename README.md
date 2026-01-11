@@ -102,6 +102,8 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PriteshBaraiya/PriteshBaraiya/output/github-contribution-grid-snake-dark.svg" />
+  ![Snake Animation](output/github-contribution-grid-snake-dark.svg)
+
 </p>
 
 ---
