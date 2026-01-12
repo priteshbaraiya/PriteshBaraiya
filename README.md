@@ -84,8 +84,8 @@
 ## 📊 GitHub Stats (Dark Neon)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriteshBaraiya&show_icons=true&theme=radical&border_radius=10" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriteshBaraiya&layout=compact&theme=radical&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PriteshBaraiya&show_icons=true&theme=radical&border_radius=10" height="150" alt="Pritesh's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriteshBaraiya&layout=compact&theme=radical&border_radius=10" height="150" alt="Pritesh's Top Langs" />
 </p>
 
 ---
@@ -93,7 +93,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriteshBaraiya&theme=radical&border_radius=10"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriteshBaraiya&theme=radical&border_radius=10" alt="Pritesh's Streak" />
 </p>
 
 ---
@@ -101,7 +101,7 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PriteshBaraiya/PriteshBaraiya/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/PriteshBaraiya/PriteshBaraiya/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
