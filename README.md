@@ -11,7 +11,7 @@
 </p>
 
 ---
-<img  align="right" alt="dataanalyst" width"400" src="<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/ed8cf2bd-6a60-4c11-be1f-670ec40f70c4" />
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGY3dzM3d3Z0MXdtMTc4aWNvZ2gwb2I5MjAyNWlneGVvZmx3ZzFjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif">
 ">
 ## 🚀 About Me
 
